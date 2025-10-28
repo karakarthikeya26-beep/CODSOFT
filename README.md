@@ -47,14 +47,15 @@ An application that detects and recognizes human faces in images using computer 
 ## 🧩 Folder Structure
 
 CODSOFT/
-├── Task1_Chatbot
-├── Task2_TicTacToe
-├── Task3_ImageCaptioning
-├── Task4_RecommendationSystem
-└── Task5_FaceRecognition
+├── Task1_Chatbot/
+├── Task2_TicTacToe/
+├── Task3_ImageCaptioning/
+├── Task4_RecommendationSystem/
+└── Task5_FaceRecognition/
+
+📫 Contact
 
 If you’d like to discuss AI, coding, or collaborations — feel free to reach out!
 
 Intern: Kara Karthikeya
 Email: karakarthikeya8@gmail.com
-
